@@ -1,4 +1,4 @@
-# DaY 1 
+# Day 1 
 
 Tools:
 - VS Code : Editor
@@ -17,5 +17,5 @@ Note:
 ## Day 01: 
 
 ### Html
-
-- 
+- We will discuss about Html tags
+- Assignment: w3schools : Html tutorial
