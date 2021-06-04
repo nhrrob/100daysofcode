@@ -42,7 +42,7 @@ This course is created for beginners. Hopefully at the end of 100 days they will
 
 ## License
 
-The Laravel 7 Crud is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+#100DaysOfCode - #NHRTraining Course is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
 ## Contact
