@@ -1,10 +1,10 @@
 <p align="center"><a href="https://nazmulrobin.com" target="_blank"><img src="http://laravel.nazmulrobin.com/images/nhrrob/nhrblog-logo-white.png" width="400"></a></p>
 
 <p align="center">
-<a href="https://github.com/nhrrob/laravel-7-crud/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/nhrrob/laravel-7-crud"></a>
-<a href="https://github.com/nhrrob/laravel-7-crud/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nhrrob/laravel-7-crud"></a>
-<a href="https://github.com/nhrrob/laravel-7-crud/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nhrrob/laravel-7-crud"></a>
-<a href="https://github.com/nhrrob/laravel-7-crud/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/nhrrob/laravel-7-crud"></a>
+<a href="https://github.com/nhrrob/100daysofcode/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/nhrrob/100daysofcode"></a>
+<a href="https://github.com/nhrrob/100daysofcode/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/nhrrob/100daysofcode"></a>
+<a href="https://github.com/nhrrob/100daysofcode/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/nhrrob/100daysofcode"></a>
+<a href="https://github.com/nhrrob/100daysofcode/blob/master/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/nhrrob/100daysofcode"></a>
 
 </p>
 
