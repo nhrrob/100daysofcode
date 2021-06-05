@@ -1,0 +1,130 @@
+h3 {
+    color: red;
+}
+
+/* body {
+    background-color: yellow;
+} */
+
+div {
+    /* color: orange; */ 
+}
+
+p{
+    /* color: orange; */
+    /* background-color: red; */
+    /* text-align: left; */
+    /* text-align: center; */
+    /* text-align: right; */
+    /* font-size: 30px; */
+    /* font-weight: bold; */
+    /* font-weight: 700; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+.box-model-test {
+    border: 10px solid red;
+    padding: 20px;
+    background: yellow;
+    margin: 20px;
+}
+
+.box-model-test p {
+    text-align: center !important;
+    /* margin-bottom: 20px; */
+    /* padding: 20px; */
+
+    /* padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px; */
+    
+    /* clock wise: top, right, bottom, left  */
+    /* padding: 20px 10px 5px 50px; */
+    
+    /* (top and bottom = 5px; right and left = 50px ) */
+    /* padding: 5px 50px; */
+    
+    /* (top=20pxl right and left = 10px; bottom = 10px) */
+    /* padding: 20px 10px 5px; */
+
+    /* (border radius px or percentage : 5px or 50%) */
+    border-radius: 5px;  
+    background: green;
+
+    text-align: justify;
+}
+
+/* immediate child 
+.class-name > element  */
+
+.box-model-test > p {
+    font-size: 30px;
+}
+
+.class-one {
+    font-size: 20px;
+}
+
+.class-two {
+    font-size: 30px;
+}
+
+.class-one.class-two {
+    font-size: 50px;
+}
+
+/* class with dot and id with # */
+#id-one {
+    font-size: 10px;
+
+    background-color: orchid;
+    height: 100px;
+    
+    width: 300px; 
+    /*or in percentage*/ 
+}
+
+a {
+    outline: 0;
+}
+
+ul li {
+    display: inline-block;
+}
+a:hover {
+    font-size: 20px;
+    /* opacity: 0; */
+    opacity: 0.5;
+}
+
+.a-tag-class {
+    color: red;
+    position: absolute;
+    top: 100px;
+    right: 200px;
+}
+
+.a-tag-class:hover {
+    color: green;
+}
+
+ul {
+background: #333;
+}
+
+ul li {
+    color: #fff;
+}
+
+ul li:nth-child(3) {
+    color: red;
+}
+
+ul li:first-child {
+    color: yellow;
+}
+
+ul li:last-child {
+    color: blue;
+}
