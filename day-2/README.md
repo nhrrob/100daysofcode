@@ -31,3 +31,10 @@ Note:
 - float
 - position: absolute, fixed, relative
 - opacity
+
+### CSS Day 2 - Extra
+- position: absolute, fixed, relative (details)
+- opacity (details)
+- z-index
+- box-shadow
+- border-radius for left and right corer
