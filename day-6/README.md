@@ -23,3 +23,7 @@ Note:
 ### Help/Link/Resources/Notes
 - Json fake data: https://jsonplaceholder.typicode.com/posts 
 - Referrence website: https://www.davidchuschinabistro.com/#/ 
+- Browser sync: 
+```
+browser-sync start --server --files '.'
+```

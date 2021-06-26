@@ -1,3 +1,3 @@
 # Assignment / Task
 
-Build the resturent management system project with me
+Build the resturant management system project with me
