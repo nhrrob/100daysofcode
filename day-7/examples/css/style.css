@@ -1,0 +1,50 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: "Oxygen", sans-serif;
+}
+
+/* Footer */
+.nhrresturant-footer {
+  background: #222;
+}
+
+.footer-hours,
+.footer-address {
+  line-height: 2;
+}
+
+.footer-column {
+  margin-bottom: 30px;
+}
+
+/* Feature section */
+.feature-column .card-title {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: 0.8;
+  margin-bottom: 0;
+}
+
+.feature-column .card-title {
+  box-shadow: 0 1px 5px 1px #cccccc;
+}
+
+/* Menu */
+.nhrresturant-header,
+.nhrresturant-header .navbar {
+  background-color: #f6b319 !important;
+}
+
+.nhrresturant-menu-items li a {
+  color: #951c49  !important;
+  text-align: center;
+}

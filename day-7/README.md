@@ -18,7 +18,7 @@ Note:
 ### Html, CSS, JS Full Project
 - Html, CSS, JavaScript Full Project - Part 2 (out of 3)
 - Clone of https://www.davidchuschinabistro.com
-- Live url: 
+- Live url: https://nhrrob.github.io/100daysofcode 
 
 ### Help/Link/Resources/Notes
 - Json fake data: https://jsonplaceholder.typicode.com/posts 
